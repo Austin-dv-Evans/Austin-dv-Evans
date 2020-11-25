@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Thanks for checking out my GitHub. My name is Austin, I am full stack developer in Denver, Colorado. I love building projects, collaborating with other developers and taking ideas and turning them into tangible applications. I am an up-beat and energetic guy. I am a father, husband and a super funky DJ. I am currently searching for my next role! If you have a freelance project in mind or a job opportunity please feel free to contact me! Thanks so much! 
+-Austin
+
+austin.dv.evans@gmail.com
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=austin-dv-evans)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Austin-dv-Evans/Austin-dv-Evans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
