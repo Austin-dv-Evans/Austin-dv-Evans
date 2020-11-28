@@ -9,9 +9,14 @@ Thanks for checking out my GitHub. I build projects, collaborate with friends an
 
 ## Skills:
 🛤 - Ruby on Rails
+
 📱 - React Native
+
 ⚛ - REACT 
+
 🖥 - JS / HTML / Material Design
+
+## More About Me:
 
 - 🔭 I’m currently working on my own company Dev Edge 
 - 🌱 I’m currently learning React Native, Data Structures, Algorithms, Container Management and Cloud Services. 
