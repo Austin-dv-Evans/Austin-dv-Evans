@@ -1,13 +1,17 @@
 ![Full Stack Developer, Denver Colorado](https://pbs.twimg.com/profile_banners/1302282274302435328/1606586299/600x200)
 
-# Austin Evans
+# Austin Evans 
 #### Full Stack Developer, Denver Colorado
 
 
 Thanks for checking out my GitHub. I build projects, collaborate with friends and take ideas and turn them into tangible applications. I am an up-beat and energetic guy. I am a new father and husband! I am currently searching for my next full time role. If you have a project in mind or a job opportunity please feel free to contact me! Thanks so much! 
 -Austin
 
-Skills:  Ruby on Rails / REACT / JS / HTML / Material Design
+## Skills:
+🛤 - Ruby on Rails
+📱 - React Native
+⚛ - REACT 
+🖥 - JS / HTML / Material Design
 
 - 🔭 I’m currently working on my own company Dev Edge 
 - 🌱 I’m currently learning React Native, Data Structures, Algorithms, Container Management and Cloud Services. 
@@ -25,14 +29,3 @@ Skills:  Ruby on Rails / REACT / JS / HTML / Material Design
 <!--
 **Austin-dv-Evans/Austin-dv-Evans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
