@@ -1,4 +1,4 @@
-### Hi there 👋, Austin Evans here,
+# Austin Evans
 #### Full Stack Developer, Denver Colorado
 ![Full Stack Developer, Denver Colorado](https://pbs.twimg.com/profile_banners/1302282274302435328/1606586299/600x200)
 
