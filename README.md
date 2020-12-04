@@ -5,6 +5,7 @@
 
 
 Thanks for checking out my GitHub. I build projects, collaborate with friends and take ideas and turn them into tangible applications. I am an up-beat and energetic guy. I am a new father and husband! I am currently searching for my next full time role. If you have a project in mind or a job opportunity please feel free to contact me! Thanks so much! 
+
 -Austin
 
 ## Skills:
@@ -14,7 +15,7 @@ Thanks for checking out my GitHub. I build projects, collaborate with friends an
 
 ⚛ - REACT 
 
-🖥 - JS / HTML / Material Design
+🖥 - JS / HTML / CSS
 
 ## More About Me:
 
