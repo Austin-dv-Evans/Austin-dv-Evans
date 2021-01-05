@@ -20,7 +20,7 @@ Thanks for checking out my GitHub. I build projects, collaborate with friends an
 ## More About Me:
 
 - 🔭 I’m currently working on my own company Dev Edge 
-- 🌱 I’m currently learning React Native, Data Structures, Algorithms, Container Management and Cloud Services. 
+- 🌱 I’m currently learning React Native, Data Structures and Algorithms. 
 - 🤔 I’m looking for help with finding my next full time roll as a Software Engineer. 
 - 📫 How to reach me: austin.dv.evans@gmail.com 
 - ⚡ Fun fact: I mix super funky bass music in my free time. 
