@@ -9,21 +9,27 @@ Thanks for checking out my GitHub. I build projects, collaborate with friends an
 -Austin
 
 ## Skills:
+
 🛤 - Ruby on Rails
 
 📱 - React Native
 
 ⚛ - REACT 
 
+⚛ - REDUX
+
 🖥 - JS / HTML / CSS
+
+👢 - Bootstrap
+
 
 ## More About Me:
 
 - 🔭 I’m currently working on my own company Dev Edge 
-- 🌱 I’m currently learning React Native, Data Structures and Algorithms. 
+- 🌱 I’m currently imporving with React Native, Data Structures and Algorithms. 
 - 🤔 I’m looking for help with finding my next full time roll as a Software Engineer. 
 - 📫 How to reach me: austin.dv.evans@gmail.com 
-- ⚡ Fun fact: I mix super funky bass music in my free time. 
+- ⚡ Fun fact: I became a father for the first time in September to my beautiful daughter Luna. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Austin-DV-Evans/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AustinDVEvans)  
