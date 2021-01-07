@@ -36,7 +36,7 @@ Thanks for checking out my GitHub. I build projects, collaborate with friends an
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=austin-dv-evans)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=austin-dv-evans&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Austin-dv-Evans/Austin-dv-Evans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
