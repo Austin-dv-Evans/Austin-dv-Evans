@@ -5,12 +5,12 @@
 Thanks for checking out my GitHub. I am a full stack software developer! 
 
 
-Formally a bartender, event producer and one hell of a funky Dj, I have spent the last 10 months learning how to code. 
-Inspired by the upcoming addition of Luna, my first child, I decided it was time for a career change and I couldn't have picked a better one. 
-I am a Flatiron bootcamp grad and I haven't stopped learning since.
-As a full stack developer you need a lot of skills. Every day I am imporving my skills. 
-I aim to be the swiss army knife of software engineers.
-If you are looking for a dev that is just scratching the surface of his potential, you found him. 
+Formally a bartender, event producer and one hell of a funky Dj, I have spent the last 10 months learning how to code. <br/>
+Inspired by the upcoming addition of Luna, my new baby girl, I decided it was time for a career change and I couldn't have picked a better one. <br/>
+I am a Flatiron bootcamp grad and I haven't stopped learning since.  <br/>
+As a full stack developer you need a lot of skills. Every day I am imporving my skills.  <br/>
+I aim to be the swiss army knife of software engineers.  <br/>
+If you are looking for a dev that is just scratching the surface of his potential, you found him.   <br/>
 
 My name is Austin
 
