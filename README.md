@@ -2,8 +2,7 @@
 #### Full Stack Developer, Denver Colorado
 
 
-Thanks for checking out my GitHub. I am a full stack developer passionate about music, my family and everything that is React! I am an up-beat and energetic guy. I am currently mastering complex concepts such as state management with Redux and Context Api, as well as Compound Components and Component Architecture. Searching for my first full time role has been tough but I know someone out there is going to be very pleased when they give this, passionate, hard worker a chance. If you have an app we can build or a job opportunity please contact me! Thanks so much! 
-
+Thanks for checking out my GitHub. I am a full stack software engineer. My family just got a little bigger and my job just got a lot cooler. Formally a bartender event producer and one hell of a funky Dj I have spent the last 8 months learning how to code. A bootcamp grad that hasn't stopped learning since. As a full stack engineer you have to have a lot of skills. I aim to be the swiss army knife of engineers.  
 -Austin
 
 ## Skills:
@@ -15,7 +14,7 @@ Thanks for checking out my GitHub. I am a full stack developer passionate about 
 🖥 - JavaScript
 
 
-For Stylin
+## For Stylin
 
 🦩 - SCSS
 
@@ -26,7 +25,7 @@ For Stylin
 🧱 - Material UI
 
 
-##Backend
+## Backend
 
 🛤 - Ruby on Rails
 
