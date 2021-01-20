@@ -61,9 +61,9 @@ For Stylin
 
 - 📫  How to reach me: austin.dv.evans@gmail.com 
 
-Connect with me on LinkedIn!
+Connect with me on LinkedIn!  <br/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Austin-DV-Evans/)  
-Slowly posting more on my Twitter 
+Slowly posting more on my Twitter   <br/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AustinDVEvans)  
 
 
