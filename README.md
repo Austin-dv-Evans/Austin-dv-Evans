@@ -7,6 +7,7 @@ Thanks for checking out my GitHub. I am a full stack software developer!
 
 Formally a bartender, event producer and one hell of a funky Dj, I have spent the last 10 months learning how to code. <br/>
 Inspired by the upcoming addition of Luna, my new baby girl, I decided it was time for a career change and I couldn't have picked a better one. <br/>
+  <br/>
 I am a Flatiron bootcamp grad and I haven't stopped learning since.  <br/>
 As a full stack developer you need a lot of skills. Every day I am imporving my skills.  <br/>
 I aim to be the swiss army knife of software engineers.  <br/>
