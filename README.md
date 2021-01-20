@@ -2,7 +2,7 @@
 #### Full Stack Developer, Denver Colorado
 
 
-Thanks for checking out my GitHub. I am a full stack software engineer. My family just got a little bigger and my job just got a lot cooler. Formally a bartender event producer and one hell of a funky Dj I have spent the last 8 months learning how to code. A bootcamp grad that hasn't stopped learning since. As a full stack engineer you have to have a lot of skills. I aim to be the swiss army knife of engineers.  
+Thanks for checking out my GitHub. I am a full stack developer. My family just got a little bigger and my work just got a lot cooler. Formally a bartender, event producer and one hell of a funky Dj I have spent the last 8 months learning how to code. Inspired by the upcoming addition of Luna my first child I decided it was time for a career change and I couldn't have picked a better one. A bootcamp grad that hasn't stopped learning since. As a full stack engineer you have to have a lot of skills. I aim to be the swiss army knife of engineers.  
 -Austin
 
 ## Skills:
@@ -56,7 +56,6 @@ Thanks for checking out my GitHub. I am a full stack software engineer. My famil
 
 - 🤔  I am currently looking for help with finding my first full time roll as a Software Engineer!
 
-- 💥  Fun fact: I became a father for the first time in September to my beautiful daughter Luna, she is my angel and all the drive I could ever need.
 
 - 📫  How to reach me: austin.dv.evans@gmail.com 
 
