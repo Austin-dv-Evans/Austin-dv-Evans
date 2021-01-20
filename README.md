@@ -2,7 +2,7 @@
 #### Full Stack Developer, Denver Colorado
 
 
-Thanks for checking out my GitHub. I am a full stack developer. My family just got a little bigger and my work just got a lot cooler. Formally a bartender, event producer and one hell of a funky Dj I have spent the last 8 months learning how to code. Inspired by the upcoming addition of Luna my first child I decided it was time for a career change and I couldn't have picked a better one. A bootcamp grad that hasn't stopped learning since. As a full stack engineer you have to have a lot of skills. I aim to be the swiss army knife of engineers.  
+Thanks for checking out my GitHub. I am a full stack developer. My family just got a little bigger and my work just got a lot cooler. Formally a bartender, event producer and one hell of a funky Dj I have spent the last 8 months learning how to code. Inspired by the upcoming addition of Luna my first child I decided it was time for a career change and I couldn't have picked a better one. I am a Flatiron bootcamp grad and I haven't stopped learning since. As a full stack engineer you have to have a lot of skills. I aim to be the swiss army knife of software engineers.  
 -Austin
 
 ## Skills:
@@ -18,11 +18,15 @@ Thanks for checking out my GitHub. I am a full stack developer. My family just g
 
 🦩 - SCSS
 
-👢 - Bootstrap 
-
 💅 - Styled Components
 
+👢 - Bootstrap 
+
 🧱 - Material UI
+
+## Design
+
+🍥 - Figma
 
 
 ## Backend
@@ -30,11 +34,6 @@ Thanks for checking out my GitHub. I am a full stack developer. My family just g
 🛤 - Ruby on Rails
 
 ⌗ - SQL
-
-
-## Design
-
-🍥 - Figma
 
 
 ## Improving Skills with 
