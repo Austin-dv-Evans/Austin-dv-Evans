@@ -8,28 +8,63 @@ Thanks for checking out my GitHub. I am a full stack developer passionate about 
 
 ## Skills:
 
-🛤 - Ruby on Rails
+#### Frontend Development
 
-⚛ - REACT - REDUX
+⚛ - REACT 
 
-📱 - React Native
+🖥 - JavaScript
 
-🖥 - JS / HTML / CSS
 
-👢 - Bootstrap
+For Stylin
+
+🦩 - SCSS
+
+👢 - Bootstrap 
 
 💅 - Styled Components
 
+🧱 - Material UI
+
+
+##Backend
+
+🛤 - Ruby on Rails
+
+⌗ - SQL
+
+
+## Design
+
+🍥 - Figma
+
+
+## Improving Skills with 
+
+📱 - React Native
+
+ʦ - Typescript
+
+⬢ - Node
+
+## Dipped my toes in
+
+🤖 Java & Kotlin / Android Development
+
+
 ## More About Me:
 
-- 🔭  I am currently working on my own company freelance company Dev Edge 
-- 🌱  I am currently imporving my skills with Data Structures and Algorithms. 
-- 🤔  I am currently looking for help with finding my first full time roll as a Software Engineer!.
+- 🔭  I am currently working on my own freelance company Dev Edge. 
+
+- 🤔  I am currently looking for help with finding my first full time roll as a Software Engineer!
+
+- 💥  Fun fact: I became a father for the first time in September to my beautiful daughter Luna, she is my angel and all the drive I could ever need.
+
 - 📫  How to reach me: austin.dv.evans@gmail.com 
-- 💥  Fun fact: I became a father for the first time in September to my beautiful daughter Luna.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Austin-DV-Evans/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AustinDVEvans)  
+Connect with me on LinkedIn!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Austin-DV-Evans/)  
+Slowly posting more on my Twitter 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AustinDVEvans)  
 
 
 
