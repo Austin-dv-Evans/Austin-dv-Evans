@@ -54,16 +54,15 @@ Thanks for checking out my GitHub. My name is Austin and I am a full stack softw
 
 ## More About Me:
 
-- 👶🏼 I just became a dad for the first time to my beautiful daughter Luna.
+- 👶🏼 - I just became a dad for the first time to my beautiful daughter Luna.
 
-- 🤔  I am currently looking for help with finding my first full time roll as a Software Engineer!
+- 🤔  - I am currently looking for help with finding my first full time roll as a Software Engineer!
 
+- 📫 - How to reach me: austin.dv.evans@gmail.com 
 
-- 📫  How to reach me: austin.dv.evans@gmail.com 
+-💼 - Check out my Portfolio Website www.AustinEvans.dev
 
-- Check out my Portfolio Website www.AustinEvans.dev
-
-Connect with me on LinkedIn!  <br/>
+Connect with me on LinkedIn!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Austin-DV-Evans/)  
 
 
