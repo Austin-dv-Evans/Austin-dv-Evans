@@ -2,24 +2,17 @@
 #### Full Stack Developer, Denver Colorado
 
 
-Thanks for checking out my GitHub. I am a full stack software developer! 
+Thanks for checking out my GitHub. My name is Austin and I am a full stack software developer! 
 
 
-Formally a bartender, event producer and one hell of a funky Dj, I have spent the last 10 months learning how to code. <br/>
-Inspired by the upcoming addition of Luna, my new baby girl, I decided it was time for a career change and I couldn't have picked a better one. <br/>
-  <br/>
-I am a Flatiron bootcamp grad and I haven't stopped learning since.  <br/>
-As a full stack developer you need a lot of skills. Every day I am improving my skills.  <br/>
-I aim to be the swiss army knife of software engineers.  <br/>
-If you are looking for a dev that is just scratching the surface of his potential, you found him.   <br/>
-
-My name is Austin
 
 ## Skills:
 
 #### Frontend Development
 
 ⚛ - REACT 
+
+📱 - React Native
 
 🖥 - JavaScript
 
@@ -34,10 +27,6 @@ My name is Austin
 
 🧱 - Material UI
 
-## Design
-
-🍥 - Figma
-
 
 ## Backend
 
@@ -46,27 +35,33 @@ My name is Austin
 ⌗ - SQL
 
 
-## Improving Skills with 
+## Design
 
-📱 - React Native
+🍥 - Figma
+
+
+## Focusing on..
 
 ʦ - Typescript
 
 ⬢ - Node
 
-## Dipped my toes in
 
-🤖 Java & Kotlin / Android Development
+## Also experienced with..
+
+🤖 Java / Kotlin / Android Development
 
 
 ## More About Me:
 
-- 🔭  I am currently working on my own freelance company Dev Edge. 
+- 👶🏼 I just became a dad for the first time to my beautiful daughter Luna.
 
 - 🤔  I am currently looking for help with finding my first full time roll as a Software Engineer!
 
 
 - 📫  How to reach me: austin.dv.evans@gmail.com 
+- 
+- Check out my Portfolio Website www.AustinEvans.dev
 
 Connect with me on LinkedIn!  <br/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Austin-DV-Evans/)  
