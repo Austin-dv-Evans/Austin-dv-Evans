@@ -19,7 +19,7 @@ Thanks for checking out my GitHub. My name is Austin and I am a full stack softw
 
 ## For Stylin
 
-🦩 - SCSS
+🦩 - Sass
 
 💅 - Styled Components
 
