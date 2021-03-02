@@ -10,11 +10,11 @@ Thanks for checking out my GitHub. My name is Austin and I am a full stack softw
 
 #### Frontend Development
 
-⚛ - REACT 
+⚛  - REACT 
 
 📱 - React Native
 
-🖥 - JavaScript
+🖥  - JavaScript
 
 
 ## For Stylin
