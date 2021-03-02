@@ -65,9 +65,6 @@ Thanks for checking out my GitHub. My name is Austin and I am a full stack softw
 
 Connect with me on LinkedIn!  <br/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Austin-DV-Evans/)  
-Slowly posting more on my Twitter   <br/>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AustinDVEvans)  
-
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=austin-dv-evans&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
