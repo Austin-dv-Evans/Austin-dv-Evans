@@ -60,7 +60,7 @@ Thanks for checking out my GitHub. My name is Austin and I am a full stack softw
 
 
 - 📫  How to reach me: austin.dv.evans@gmail.com 
-- 
+
 - Check out my Portfolio Website www.AustinEvans.dev
 
 Connect with me on LinkedIn!  <br/>
