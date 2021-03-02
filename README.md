@@ -49,7 +49,7 @@ Thanks for checking out my GitHub. My name is Austin and I am a full stack softw
 
 ## Also experienced with..
 
-🤖 Java / Kotlin / Android Development
+🤖 - Java / Kotlin / Android Development
 
 
 ## More About Me:
