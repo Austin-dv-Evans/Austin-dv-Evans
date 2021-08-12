@@ -56,7 +56,7 @@ Thanks for checking out my GitHub. My name is Austin and I am a full stack softw
 
 - 👶🏼 - I just became a dad for the first time to my beautiful daughter Luna.
 
-- 🤔  - I am currently looking for help with finding my first full time roll as a Software Engineer!
+- 🥳 - I am no longer looking for my first full time roll as a Software Engineer!
 
 - 📫 - How to reach me: austin.dv.evans@gmail.com 
 
